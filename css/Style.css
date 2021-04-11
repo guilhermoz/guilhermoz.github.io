@@ -215,8 +215,8 @@ main .site-title .btn
 main .site-title .btn:hover
 {
     background: transparent;
-    border: 1px solid var(--white);
-    color: var(--white);
+    border: 1px solid var(--midnight);
+    color: var(--sky);
 }
 
 main .blog
